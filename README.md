@@ -54,7 +54,7 @@ Learn paragraph and document embeddings via the distributed bag of words models 
 
 **[See Reference](https://radimrehurek.com/gensim/models/doc2vec.html)**
 
-For Implementation See [TrainClassifier.ipynb](/TrainClassifier.ipynb)
+For Implementation See [TrainClassifier.ipynb](/TrainClassifier.ipynb) for given The Hindu Article Dataset
 
 
 
