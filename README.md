@@ -25,7 +25,9 @@
 ![](https://github.com/ShamSinha/The-Hindu-News-Article-Classifier/blob/main/Screenshot%20(545).png)
 ![](https://github.com/ShamSinha/The-Hindu-News-Article-Classifier/blob/main/Screenshot%20(546).png)
 
-### Dataset
+### Dataset 
+
+Web Scraping is used on [The Hindu](https://www.thehindu.com/archive/web/) to extract text data for different news topics.
 
 | News_Topic    | Num_Articles  |
 | :-------------: | :-------------: |
@@ -54,7 +56,7 @@ Learn paragraph and document embeddings via the distributed bag of words models 
 
 **[See Reference](https://radimrehurek.com/gensim/models/doc2vec.html)**
 
-For Implementation See [TrainClassifier.ipynb](/TrainClassifier.ipynb) for given The Hindu Article Dataset
+For Implementation See [TrainClassifier.ipynb](/TrainClassifier.ipynb) for given Dataset.
 
 
 
