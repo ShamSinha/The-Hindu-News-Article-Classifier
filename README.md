@@ -48,9 +48,11 @@
 
 
 
-### Doc2Vec For Learning Document Embeddings                  **[See Reference](https://radimrehurek.com/gensim/models/doc2vec.html)**
+### Doc2Vec For Learning Document Embeddings                  
 
 Learn paragraph and document embeddings via the distributed bag of words models shown in this [paper](https://arxiv.org/pdf/1405.4053v2.pdf).
+**[See Reference](https://radimrehurek.com/gensim/models/doc2vec.html)**
+For Implementation See [TrainClassifier.ipynb](/TrainClassifier.ipynb)
 
 
 
