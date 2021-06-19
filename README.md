@@ -47,8 +47,8 @@
 |Environment    |  1864 |
 
 
-|precision|recall|f1-score|support|
-| -----   | ---- | ------ | ----- |
+|News_Topic|precision|recall|f1-score|support|
+| -----   | ---- | ------ | ----- | ---- |
 |Books|0.76|0.79|0.77|490|
 |Business|0.87|0.88|0.88|1109|
 |Cricket|0.95|0.96|0.95|610|
@@ -65,9 +65,8 @@
 |Sci-Tech|0.77|0.76|0.76|992|
 |Society|0.67|0.61|0.64|905|
 |Tennis|0.97|0.98|0.98|684|
-|accuracy|0.81|12241|
-|macro|avg|0.81|0.81|0.81|12241|
-|weighted|avg|0.81|0.81|0.81|12241|
+|accuracy|||0.81|12241|
+
  
  
  
