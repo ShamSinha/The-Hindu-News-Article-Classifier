@@ -25,7 +25,7 @@
 ![](https://github.com/ShamSinha/The-Hindu-News-Article-Classifier/blob/main/Screenshot%20(545).png)
 ![](https://github.com/ShamSinha/The-Hindu-News-Article-Classifier/blob/main/Screenshot%20(546).png)
 
-## Dataset
+### Dataset
 
 | News_Topic    | Num_Articles  |
 | ------------- | ------------- |
@@ -46,6 +46,7 @@
 |Health         |  1905 |
 |Environment    |  1864 |
 
+### Classification Report
 
 |News_Topic|precision|recall|f1-score|support|
 | -----   | ---- | ------ | ----- | ---- |
