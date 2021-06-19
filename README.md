@@ -28,7 +28,7 @@
 ### Dataset
 
 | News_Topic    | Num_Articles  |
-| ------------- | ------------- |
+| :-------------: | :-------------: |
 |Life & Style   |  4641 |
 |Business       |  4434 |
 |Sci-Tech       |  3772 |
@@ -49,7 +49,7 @@
 ### Classification Report
 
 |News_Topic|precision|recall|f1-score|support|
-| -----   | ---- | ------ | ----- | ---- |
+| :-----:  | :----: | :------: | :-----: | :----: |
 |Books|0.76|0.79|0.77|490|
 |Business|0.87|0.88|0.88|1109|
 |Cricket|0.95|0.96|0.95|610|
