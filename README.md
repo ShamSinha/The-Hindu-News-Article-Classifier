@@ -24,6 +24,11 @@
 ![](https://github.com/ShamSinha/The-Hindu-News-Article-Classifier/blob/main/Screenshot%20(543).png)
 ![](https://github.com/ShamSinha/The-Hindu-News-Article-Classifier/blob/main/Screenshot%20(545).png)
 ![](https://github.com/ShamSinha/The-Hindu-News-Article-Classifier/blob/main/Screenshot%20(546).png)
+
+## Dataset
+
+![](https://github.com/ShamSinha/The-Hindu-News-Article-Classifier/blob/main/Num_Article_by_Topic.png)
+
  
  
  
