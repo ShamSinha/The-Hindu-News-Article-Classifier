@@ -27,7 +27,41 @@
 
 ## Dataset
 
-![](https://github.com/ShamSinha/The-Hindu-News-Article-Classifier/blob/main/Num_Article_by_Topic.png)
+| News_Topic    | Num_Articles  |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+Life & Style     4641
+Business         4434
+Sci-Tech         3772
+Entertainment    3723
+Other Sports     3664
+Elections        3593
+Society          3591
+Tennis           2915
+Education        2743
+International    2726
+National         2520
+Football         2491
+Cricket          2437
+Books            1944
+Health           1905
+Environment      1864
 
  
  
