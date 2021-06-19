@@ -25,11 +25,18 @@
 ![](https://github.com/ShamSinha/The-Hindu-News-Article-Classifier/blob/main/Screenshot%20(545).png)
 ![](https://github.com/ShamSinha/The-Hindu-News-Article-Classifier/blob/main/Screenshot%20(546).png)
 
+
+
 ### Dataset 
 
 Web Scraping is used on [The Hindu website](https://www.thehindu.com/archive/web/) to extract text data for different news topics.
 
-For Implementation See [LinksScraping](/LinksScraping.ipynb) and [ArticlesExtraction&Preprocessing.ipynb](/ArticlesExtraction&Preprocessing)
+For Implementation See [LinksScraping](/LinksScraping.ipynb) and [ArticlesExtraction&Preprocessing.ipynb](/ArticlesExtraction&Preprocessing).
+
+Data Scraped is stored in [ArticlesDatabaseM](https://drive.google.com/file/d/1mw3FCoCc2QcCBecX8R-RzpAFks2btXc_/view?usp=sharing) file.
+In this database articles text are stored in articles_link_tb sqlite table after preprocessing of text. 
+
+
 
 | News_Topic    | Num_Articles  |
 | :-------------: | :-------------: |
