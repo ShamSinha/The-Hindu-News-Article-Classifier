@@ -29,7 +29,7 @@
 
 Web Scraping is used on [The Hindu website](https://www.thehindu.com/archive/web/) to extract text data for different news topics.
 
-For Implementation See [LinksScraping.ipynb](/LinksScraping.ipynb) and [ArticlesExtraction&Preprocessing.ipynb](/ArticlesExtraction&Preprocessing.ipynb)
+For Implementation See [LinksScraping](/LinksScraping.ipynb) and [ArticlesExtraction&Preprocessing.ipynb](/ArticlesExtraction&Preprocessing)
 
 | News_Topic    | Num_Articles  |
 | :-------------: | :-------------: |
@@ -58,7 +58,7 @@ Learn paragraph and document embeddings via the distributed bag of words models 
 
 **[See Reference](https://radimrehurek.com/gensim/models/doc2vec.html)**
 
-For Implementation See [TrainClassifier.ipynb](/TrainClassifier.ipynb) for given Dataset.
+For Implementation See [TrainClassifier](/TrainClassifier.ipynb) for given Dataset.
 
 
 
