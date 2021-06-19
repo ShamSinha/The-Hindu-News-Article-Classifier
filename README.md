@@ -46,6 +46,11 @@
 |Health         |  1905 |
 |Environment    |  1864 |
 
+### Doc2Vec For Learning Document Embeddings
+
+[Reference](https://radimrehurek.com/gensim/models/doc2vec.html)
+
+
 ### Classification Report
 
 |News_Topic|precision|recall|f1-score|support|
