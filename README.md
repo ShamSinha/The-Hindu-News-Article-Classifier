@@ -27,7 +27,9 @@
 
 ### Dataset 
 
-Web Scraping is used on [The Hindu](https://www.thehindu.com/archive/web/) to extract text data for different news topics.
+Web Scraping is used on [The Hindu website](https://www.thehindu.com/archive/web/) to extract text data for different news topics.
+
+For Implementation See [LinksScraping.ipynb](/LinksScraping.ipynb) and [ArticlesExtraction&Preprocessing.ipynb](/ArticlesExtraction&Preprocessing.ipynb)
 
 | News_Topic    | Num_Articles  |
 | :-------------: | :-------------: |
