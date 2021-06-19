@@ -31,10 +31,10 @@
 
 Web Scraping is used on [The Hindu website](https://www.thehindu.com/archive/web/) to extract text data for different news topics.
 
-For Implementation See [LinksScraping](/LinksScraping.ipynb) and [ArticlesExtraction&Preprocessing.ipynb](/ArticlesExtraction&Preprocessing).
-
 Data Scraped is stored in [ArticlesDatabaseM](https://drive.google.com/file/d/1mw3FCoCc2QcCBecX8R-RzpAFks2btXc_/view?usp=sharing) file.
 In this database articles text are stored in articles_link_tb sqlite table after preprocessing of text. 
+
+For Implementation See [LinksScraping](/LinksScraping.ipynb) and [ArticlesExtraction&Preprocessing.ipynb](/ArticlesExtraction&Preprocessing).
 
 
 
@@ -57,6 +57,7 @@ In this database articles text are stored in articles_link_tb sqlite table after
 |Health         |  1905 |
 |Environment    |  1864 |
 
+Data is split into 75% train set and 25% test set.
 
 
 ### Doc2Vec For Learning Document Embeddings                  
