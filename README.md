@@ -61,7 +61,7 @@ Data is split into 75% train set and 25% test set.
 
 ## Two different model is used to Learn Document Embeddings
 
-### 1.Doc2Vec             
+### 1. Doc2Vec             
 
 Learn paragraph and document embeddings via the distributed bag of words models shown in this [paper](https://arxiv.org/pdf/1405.4053v2.pdf).
 
@@ -98,6 +98,27 @@ Tf means term-frequency while tf-idf means term-frequency times inverse document
 
 For Implementation See [TrainClassifier2](/TrainClassifier2.ipynb) for given Dataset.
 
+#### Classification Report
+
+|News_Topic|precision|recall|f1-score|support|
+| :-----:  | :----: | :------: | :-----: | :----: |
+|Books|0.87|0.71|0.78|544|
+|Business|0.90|0.91|0.90|1078|
+|Cricket|0.98|0.98|0.98|633|
+|Education|0.81|0.90|0.85|686|
+|Elections|0.91|0.94|0.93|920|
+|Entertainment|0.81|0.86|0.83|977|
+|Environment|0.71|0.77|0.74|473|
+|Football|0.99|0.99|0.99|636|
+|Health|0.73|0.66|0.69|475|
+|International|0.81|0.85|0.83|642|
+|Life & Style|0.78|0.67|0.72|1164|
+|National|0.73|0.67|0.70|618|
+|Other Sports|0.97|0.97|0.97|911|
+|Sci-Tech|0.84|0.75|0.79|938|
+|Society|0.60|0.73|0.66|857|
+|Tennis|0.99|0.98|0.98|689|
+|accuracy|||0.84| 12241
 
  
  
