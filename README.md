@@ -91,9 +91,8 @@ For Implementation See [TrainClassifier](/TrainClassifier.ipynb) for given Datas
 |Tennis|0.97|0.98|0.98|684|
 |accuracy|||0.81|12241|
 
-Accuracy on Training set 0.9998093785741518
-
-Accuracy on Test set 0.813495629442039
+Accuracy on Training set 99.98%
+Accuracy on Test set 81.35%
 
 ### 2. TF-IDF 
 Tf means term-frequency while tf-idf means term-frequency times inverse document-frequency. This is a common term weighting scheme in information retrieval, that has also found good use in document classification.
@@ -124,9 +123,8 @@ For Implementation See [TrainClassifier2](/TrainClassifier2.ipynb) for given Dat
 |Tennis|0.99|0.98|0.98|689|
 |accuracy|||0.84| 12241|
 
-Accuracy on Training set 0.9996732204128316
-
-Accuracy on Test set 0.8382485091087329
+Accuracy on Training set 99.97%
+Accuracy on Test set 83.83%
 
  
  
