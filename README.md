@@ -59,16 +59,15 @@ For Implementation See [ScrapeLinks](/ScrapeLinks.ipynb) and [ArticleExt&Prep](/
 
 Data is split into 75% train set and 25% test set.
 
+## Two different model is used to Learn Document Embeddings
 
-### Doc2Vec For Learning Document Embeddings                  
+### 1.Doc2Vec             
 
 Learn paragraph and document embeddings via the distributed bag of words models shown in this [paper](https://arxiv.org/pdf/1405.4053v2.pdf).
 
 **[See Reference](https://radimrehurek.com/gensim/models/doc2vec.html)**
 
 For Implementation See [TrainClassifier](/TrainClassifier.ipynb) for given Dataset.
-
-
 
 #### Classification Report
 
@@ -91,6 +90,14 @@ For Implementation See [TrainClassifier](/TrainClassifier.ipynb) for given Datas
 |Society|0.67|0.61|0.64|905|
 |Tennis|0.97|0.98|0.98|684|
 |accuracy|||0.81|12241|
+
+### 2. TF-IDF 
+Tf means term-frequency while tf-idf means term-frequency times inverse document-frequency. This is a common term weighting scheme in information retrieval, that has also found good use in document classification.
+
+**[See Reference](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfTransformer.html)**
+
+For Implementation See [TrainClassifier2](/TrainClassifier2.ipynb) for given Dataset.
+
 
  
  
