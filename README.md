@@ -92,7 +92,7 @@ For Implementation See [TrainClassifier](/TrainClassifier.ipynb) for given Datas
 |accuracy|||0.81|12241|
 
 
-|DataSet|Accuracy|
+|Dataset|Accuracy|
 | :-----:  | :----: |
 |Training set| 99.98%|
 |Test set| 81.35%|
@@ -126,7 +126,7 @@ For Implementation See [TrainClassifier2](/TrainClassifier2.ipynb) for given Dat
 |Tennis|0.99|0.98|0.98|689|
 |accuracy|||0.84| 12241|
 
-|DataSet|Accuracy|
+|Dataset|Accuracy|
 | :-----:  | :----: |
 |Training set| 99.97%|
 |Test set | 83.83%|
