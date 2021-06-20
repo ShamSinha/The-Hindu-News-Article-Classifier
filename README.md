@@ -14,7 +14,7 @@
       
 ## To run web app 
  1. Clone this repo.
- 2. Download this [folder](https://drive.google.com/drive/folders/1WPUT9Fk_I7akEMG0pY-F1GpBj62ZETyz?usp=sharing) from Google Drive to get trained Doc2Vec model for our training dataset. Include all its files in NewsApp directory.
+ 2. Download this [folder](https://drive.google.com/drive/folders/1WPUT9Fk_I7akEMG0pY-F1GpBj62ZETyz?usp=sharing) from Google Drive to get trained Doc2Vec model for given dataset. Include all its files in NewsApp directory.
  3. Download this [folder](https://drive.google.com/drive/folders/1xaR-Gv2UJzf9AHUjRleDD44TUt4M7smF?usp=sharing) from Google Drive to get trained TF-IDF model for given dataset. Include all its files in NewsApp directory.
  5. Update the PATH variable present in app.py to installation path location of chromedriver.exe
  6. Run *app.py* in Spyder.
