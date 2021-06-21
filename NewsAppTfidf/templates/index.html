@@ -1,0 +1,35 @@
+{% extends "base.html" %} {% block content %}
+
+<style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</style>
+
+
+
+<div style="text-align: center;">
+
+        
+        <form  id="upload-link" method="post" enctype="multipart/form-data">
+        
+        <label for="urlUpload" class="upload-label" >
+            <h2>Enter The Hindu Article Url</h2>
+        </label>
+        <br>
+        <input type="url" name="articleUrl" id="urlUpload" size=75 >
+        
+        </form>   
+        
+        <div>
+            <button type="button" class="w3-button w3-hover-shadow " id="btn-predict">Predict!</button>
+        </div>
+        
+        <div class="loader" style="display:none; "></div>
+
+        <h3 id="result" style="color: white; text-transform: capitalize; ">
+            <span></span>
+        </h3>
+
+    
+</div>
+
+{% endblock %}
