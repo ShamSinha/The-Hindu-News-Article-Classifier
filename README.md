@@ -16,9 +16,10 @@
  1. Clone this repo.
  2. Download this [folder](https://drive.google.com/drive/folders/1WPUT9Fk_I7akEMG0pY-F1GpBj62ZETyz?usp=sharing) from Google Drive to get trained Doc2Vec model for given dataset. Include all its files in NewsApp directory.
  3. Download this [folder](https://drive.google.com/drive/folders/1xaR-Gv2UJzf9AHUjRleDD44TUt4M7smF?usp=sharing) from Google Drive to get trained TF-IDF model for given dataset. Include all its files in NewsAppTfidf directory.
- 5. Update the PATH variable present in app.py to installation path location of chromedriver.exe
- 6. Run *app.py* in Spyder.
- 7. Open [local address](http://127.0.0.1:5000/) in a browser.
+ 5. Update the PATH variable present in app.py in both NewsApp and NewsAppTfidf dir to installation path location of chromedriver.exe
+ 7. Run *app.py* in Spyder in NewsApp directory if you want to predict News topic on Doc2Vec Model.
+ 8. Run *app.py* in Spyder in NewsAppTfidf directory if you want to predict News topic on TF-IDF Model.
+ 9. Open [local address](http://127.0.0.1:5000/) in a browser.
 
 ## Web App
 
