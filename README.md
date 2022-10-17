@@ -14,8 +14,8 @@
       
 ## To run web app 
  1. Clone this repo.
- 2. Download this [folder](https://drive.google.com/drive/folders/1WPUT9Fk_I7akEMG0pY-F1GpBj62ZETyz?usp=sharing) from Google Drive to get trained Doc2Vec model for given dataset. Include all its files in NewsApp directory.
- 3. Download this [folder](https://drive.google.com/drive/folders/1xaR-Gv2UJzf9AHUjRleDD44TUt4M7smF?usp=sharing) from Google Drive to get trained TF-IDF model for given dataset. Include all its files in NewsAppTfidf directory.
+ 2. Download this [folder](https://drive.google.com/drive/folders/1Xx573gg4on6IA_2CvNyUnWF6RPO8sb7O?usp=sharing) from Google Drive to get trained Doc2Vec model for given dataset. Include all its files in NewsApp directory.
+ 3. Download this [folder](https://drive.google.com/drive/folders/1j8TO2y2MrhqNUbHfb8Pz88hla7dTi2Sh?usp=sharing) from Google Drive to get trained TF-IDF model for given dataset. Include all its files in NewsAppTfidf directory.
  5. Update the PATH variable present in app.py in both NewsApp and NewsAppTfidf dir to installation path location of chromedriver.exe
  7. Run *app.py* in Spyder in NewsApp directory if you want to predict News topic on Doc2Vec Model.
  8. Run *app.py* in Spyder in NewsAppTfidf directory if you want to predict News topic on TF-IDF Model.
@@ -33,7 +33,7 @@
 
 Web Scraping is used on [The Hindu website](https://www.thehindu.com/archive/web/) to extract text data for different news topics.
 
-Data Scraped is stored in [ArticlesDatabaseM](https://drive.google.com/file/d/1mw3FCoCc2QcCBecX8R-RzpAFks2btXc_/view?usp=sharing) file.
+Data Scraped is stored in [ArticlesDatabaseM](https://drive.google.com/file/d/1sNEcPGRPphIs9k3XWglhVj1pKQ6WULQw/view?usp=sharing) file.
 In this database articles text are stored in **articles_link_tb** sqlite table after preprocessing of text. 
 
 For Implementation See [ScrapeLinks](/ScrapeLinks.ipynb) and [ArticleExt&Prep](/ArticleExt&Prep.ipynb) jupyter notebook files.
